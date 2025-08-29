@@ -1,2 +1,2 @@
-let userName = 'nimq'
-console.log(`slam  ${userName}`);
+let userName = 'nima'
+console.log(`salam  ${userName}`);
